@@ -39,7 +39,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "rs-product-card",
+    "name": "rss-product-card",
     "author": "RafaelSS427",
     "module": "dist/rs-product-card.esm.js",
     "size-limit": [
